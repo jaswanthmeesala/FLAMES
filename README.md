@@ -1,9 +1,6 @@
 # FLAMES
-
-A basic website that takes 2 names as input and perform FLAMES
-
-Tech Stack used : HTML, CSS, JAVASCRIPT
-
-#Team
-
-[@sri ram charan](https://github.com/sriramcharanmarri) and [@venkat sai kumar](https://github.com/venkatasaikumarmamidi)
+- A Simple website which takes user inputs and calculates FLAMES.<br>
+# Team
+- [`Jaswanth meesala`](https://github.com/jaswanthmeesala) and [`Venkata sai kumar`](https://https://github.com/venkatasaikumarmamidi) contributed me to bulid this website.
+# Website
+- You can go to the website by clicking [`Flames`](https://flames.rf.gd/)
